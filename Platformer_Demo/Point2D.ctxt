@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Point2D
+comment1.params=x\ y
+comment1.target=Point2D(double,\ double)
+comment2.params=other
+comment2.target=Point2D(Point2D)
+comment3.params=
+comment3.target=double\ getX()
+comment4.params=
+comment4.target=double\ getY()
+comment5.params=value
+comment5.target=void\ setX(double)
+comment6.params=value
+comment6.target=void\ setY(double)
+comment7.params=v
+comment7.target=void\ add(Vector2D)
+numComments=8
